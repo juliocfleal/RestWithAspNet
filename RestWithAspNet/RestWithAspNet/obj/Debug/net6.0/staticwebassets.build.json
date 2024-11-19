@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xOio5pXSNGzVJkswtt91g1Jr7e8oGQVrp3tUMchm6vA=",
+  "Source": "RestWithAspNet",
+  "BasePath": "_content/RestWithAspNet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
