@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\julio\\OneDrive\\Documents\\AspNetWork\\RestWithAspNet\\RestWithAspNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2A48386-E551-420B-ABCE-046B7E1A9D50}|RestWithAspNet\\RestWithAspNet.csproj|c:\\users\\julio\\onedrive\\documents\\aspnetwork\\restwithaspnet\\restwithaspnet\\restwithaspnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2A48386-E551-420B-ABCE-046B7E1A9D50}|RestWithAspNet\\RestWithAspNet.csproj|solutionrelative:restwithaspnet\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6AD1CA9-2F54-4358-AA03-822EA4208952}|RestWithAspNet\\RestWithAspNet.csproj|c:\\users\\julio\\onedrive\\documents\\aspnetwork\\restwithaspnet\\restwithaspnet\\restwithaspnet\\restwithaspnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6AD1CA9-2F54-4358-AA03-822EA4208952}|RestWithAspNet\\RestWithAspNet.csproj|solutionrelative:restwithaspnet\\restwithaspnet.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,20 +27,20 @@
           ]
         },
         {
-          "DockedWidth": 170,
+          "DockedWidth": 62,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\julio\\OneDrive\\Documents\\AspNetWork\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestWithAspNet\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\julio\\OneDrive\\Documents\\AspNetWork\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestWithAspNet\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA5wAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-19T00:54:01.897Z",
+              "Title": "RestWithAspNet.http",
+              "DocumentMoniker": "C:\\Users\\julio\\OneDrive\\Documents\\AspNetWork\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet.http",
+              "RelativeDocumentMoniker": "RestWithAspNet\\RestWithAspNet.http",
+              "ToolTip": "C:\\Users\\julio\\OneDrive\\Documents\\AspNetWork\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet\\RestWithAspNet.http",
+              "RelativeToolTip": "RestWithAspNet\\RestWithAspNet.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-19T02:24:01.571Z",
               "EditorCaption": ""
             }
           ]
